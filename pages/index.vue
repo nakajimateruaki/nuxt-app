@@ -2,7 +2,7 @@
   <div class="content">
     <my-header />
     <section>
-      <h1>トップページ</h1>
+      <h1>トップページ!!!</h1>
       <p>texttexttexttexttexttexttext</p>
     </section>
     <my-login />
@@ -16,11 +16,9 @@ import MyHeader from "../components/MyHeader";
 export default {
   components: {
     MyLogin,
-    MyHeader
-  }
-}
+    MyHeader,
+  },
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
